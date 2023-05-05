@@ -4,5 +4,5 @@
 Command to run the application
 
 ```bash
-npm run dev
+npm run dev 
 ```
